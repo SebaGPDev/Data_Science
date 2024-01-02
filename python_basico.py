@@ -13,3 +13,10 @@ ANY_LETTER = "Hola mundo"
 print(ANY_LETTER[0])
 print(len(ANY_LETTER))
 print(ANY_LETTER)
+
+# Guardar un número, imprimirlo, cambiarle el valor e imprimirlo nuevamente
+ANY_NUMBER = 10
+print(ANY_NUMBER)
+
+ANY_NUMBER = 11
+print(ANY_NUMBER)
